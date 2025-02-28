@@ -1,0 +1,20 @@
+{
+  "kind": "collectionType",
+  "collectionName": "submenu_items",
+  "info": {
+    "singularName": "submenu-item",
+    "pluralName": "submenu-items",
+    "displayName": "Submenu Items"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    }
+  }
+}
